@@ -1,6 +1,6 @@
 ### processi generativi
 
-  
+![albero](https://github.com/alfredocalosci/DADU_DesignConcept_2021/blob/main/_esempi/processi_generativi/img/albero.jpg)
 
 
 #### riferimenti
