@@ -10,7 +10,7 @@ function setup() {
 function draw() {
   background(220);
 
-    // tutti i rami // all the branches
+    
     for(let i = 0; i < tuttelefoglie.length; i++){
          tuttelefoglie[i].display();
     }
